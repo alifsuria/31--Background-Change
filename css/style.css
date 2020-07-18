@@ -1,0 +1,10 @@
+body {
+  height: 100vh;
+}
+
+#display{
+height: 350px;
+background: black;
+font-size: 1.3rem;
+text-align: center;
+}
